@@ -5,8 +5,9 @@
 ### Details and Assumptions
     * I need an inventory store that will make a profit on items  borrowed and scheduled.      
 
-### Acceptance Criteria     
+### Acceptance Criteria    x 
     gherkin 
     Given Items
     When borrowed and out of store
     Then will make a profit in time unit. 
+MZNXb.kznbq.JHZBDlj ndjfb;o;o . íjoifj'
